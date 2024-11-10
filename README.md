@@ -57,7 +57,7 @@ Partes de software, como módulos ou bibliotecas, que são projetadas para serem
 .Testing NFRs (Testing Non-Functional Requirements):
  Processo de teste focado na verificação de requisitos não-funcionais, como desempenho, segurança e usabilidade, garantindo que o sistema atende a esses requisitos essenciais para a experiência do usuário e para a confiabilidade do software. (página 33)
 
- #Fichamento de citações
+ # Fichamento de citações
 
  . “The analysis indicates that the SPL testing field has attracted significant attention from researchers in recent years, with an increase in empirically evaluated studies.” (Page 32, RQ1)
 
