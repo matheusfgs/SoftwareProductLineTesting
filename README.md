@@ -1,7 +1,6 @@
 # Software product line testing: a systematic literature review
-Empirical Software Engineering 02 September 2024
-Volume 29, article number 146, (2024)
-https://link.springer.com/article/10.1007/s10664-024-10516-x
+
+Agh, H., Azamnouri, A. & Wagner, S. Software product line testing: a systematic literature review. Empir Software Eng 29, 146 (2024). https://doi.org/10.1007/s10664-024-10516-x
 
 # 1.Fichamento de Conteúdo
 
