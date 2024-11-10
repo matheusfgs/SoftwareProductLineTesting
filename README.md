@@ -17,7 +17,7 @@ A revisão elaborada e abordada no artigo identificou as principais abordagens d
 
 E em relação aos tipos de teste citados e destacados durante o artigo, são discutidos: 
 
-.Os testes de unidade: que focam nos menores componentes de software;
+*Os testes de unidade: que focam nos menores componentes de software;
 
 .Os testes de integração: que verifica a interação entre os componentes;
 
