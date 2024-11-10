@@ -3,7 +3,7 @@ Empirical Software Engineering 02 September 2024
 Volume 29, article number 146, (2024)
 https://link.springer.com/article/10.1007/s10664-024-10516-x
 
-# Fichamento de Conteúdo
+# 1.Fichamento de Conteúdo
 
 O artigo apresenta uma revisão ampla e sistemática da literatura sobre o chamado “Teste de Linhas de Produto de Software” (LPS), um paradigma de desenvolvimento que busca otimizar custos, reduzir drasticamente o tempo de lançamento e melhorar a qualidade dos produtos de software derivados. E o LPS é uma abordagem que permite criar uma família de produtos de software com um conjunto de ativos centrais compartilhados, como arquiteturas e  principalmente componentes reutilizáveis, enquanto se adapta a diferentes requisitos de mercado por meio das variabilidades configuráveis. 
 
@@ -30,7 +30,7 @@ E Além de discutir os tipos de testes existentes, o artigo também aborda a imp
 
 No final, o artigo conclui que, apesar do progresso na área de testes para LPS ao longo das últimas duas décadas, ainda existem várias lacunas que precisam ser abordadas para melhorar a eficácia e a adoção das práticas de teste sobre a indústria.  E essas descobertas fornecem uma base sólida para profissionais e a pesquisadores, os ajudando ao orientar o desenvolvimento de novas técnicas que possam atender de forma mais completa às necessidades de teste no contexto do LPS.
 
-# Fichamento Bibliográfico
+# 2.Fichamento Bibliográfico
 
 .SPL (Software Product Line): É um paradigma de desenvolvimento que permite criar uma família de produtos de software com ativos centrais compartilhados, aproveitando a reutilização de componentes para atender diferentes necessidades de mercado e diminuir o custo e o tempo de desenvolvimento. (página 1)
 
@@ -57,7 +57,7 @@ Partes de software, como módulos ou bibliotecas, que são projetadas para serem
 .Testing NFRs (Testing Non-Functional Requirements):
  Processo de teste focado na verificação de requisitos não-funcionais, como desempenho, segurança e usabilidade, garantindo que o sistema atende a esses requisitos essenciais para a experiência do usuário e para a confiabilidade do software. (página 33)
 
- # Fichamento de citações
+ # 3.Fichamento de citações
 
  . “The analysis indicates that the SPL testing field has attracted significant attention from researchers in recent years, with an increase in empirically evaluated studies.” (Page 32, RQ1)
 
