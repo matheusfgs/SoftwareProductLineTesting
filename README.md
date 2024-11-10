@@ -17,7 +17,7 @@ A revisão elaborada e abordada no artigo identificou as principais abordagens d
 
 E em relação aos tipos de teste citados e destacados durante o artigo, são discutidos: 
 
-*_ Os testes de unidade: que focam nos menores componentes de software;
+.Os testes de unidade: que focam nos menores componentes de software;
 
 .Os testes de integração: que verifica a interação entre os componentes;
 
@@ -56,6 +56,17 @@ Partes de software, como módulos ou bibliotecas, que são projetadas para serem
 
 .Testing NFRs (Testing Non-Functional Requirements):
  Processo de teste focado na verificação de requisitos não-funcionais, como desempenho, segurança e usabilidade, garantindo que o sistema atende a esses requisitos essenciais para a experiência do usuário e para a confiabilidade do software. (página 33)
+
+ #Fichamento de citações
+
+ . “The analysis indicates that the SPL testing field has attracted significant attention from researchers in recent years, with an increase in empirically evaluated studies.” (Page 32, RQ1)
+
+
+. “Creating test assets to address commonality and variability in SPL testing is crucial for enhancing reusability and minimizing faults in core assets.” (Page 33, RQ6)
+
+
+. “The distribution of studies across these categories indicates that model-based techniques are the most commonly used in the examined studies.” ( Page 33, RQ7)
+
 
 
 
