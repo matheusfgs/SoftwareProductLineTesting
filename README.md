@@ -12,22 +12,8 @@ E em relação aos tipos de teste citados e destacados durante o artigo, são di
 
 .SPL (Software Product Line): É um paradigma de desenvolvimento que permite criar uma família de produtos de software com ativos centrais compartilhados, aproveitando a reutilização de componentes para atender diferentes necessidades de mercado e diminuir o custo e o tempo de desenvolvimento. (página 1)
 
-
-.Configurable Systems: Sistemas de software projetados para serem adaptáveis e configuráveis de acordo com os requisitos específicos dos usuários, permitindo personalização sem necessidade de reescrever o código principal do sistema. (página 2)
-
-.Non-functional Testing (Teste não-funcional): Teste que verifica atributos de qualidade do software que não estão diretamente relacionados com funcionalidades, como desempenho, segurança, usabilidade e escalabilidade, assegurando que o sistema atende a esses critérios. (página 3)
-
-.Reusable Components (Componentes Reutilizáveis): 
-Partes de software, como módulos ou bibliotecas, que são projetadas para serem reutilizadas em diferentes projetos ou produtos, contribuindo para reduzir esforço de desenvolvimento e promover consistência entre sistemas. (página 4)
-
 .SLRs in Software Engineering (Revisões Sistemáticas da Literatura em Engenharia de Software): Métodos estruturados para revisar, coletar e analisar estudos existentes em engenharia de software, visando fornecer uma visão geral sobre o estado da arte de uma área específica e identificar lacunas e tendências de pesquisa. (página 6)
-
-.Software Product Family (Família de Produtos de Software): Conjunto de produtos de software relacionados que compartilham características comuns e variáveis, permitindo o desenvolvimento eficiente de vários produtos baseados em uma infraestrutura comum. (página 9)
-
-.Quality Assessment Criteria (Critérios de Avaliação de Qualidade): Conjunto de métricas ou diretrizes utilizadas para avaliar a qualidade de um produto de software, cobrindo aspectos como confiabilidade, eficiência, segurança e manutenibilidade. (página 12) 
-
-.Domain Engineering (Engenharia de Domínio): Processo de desenvolvimento que identifica, modela e organiza os requisitos comuns e variáveis dentro de um domínio específico, com o objetivo de criar ativos reutilizáveis que facilitem a criação de novos produtos de software no mesmo domínio. (página 16)
-
+ 
 .Regression Testing (Teste de Regressão): Tipo de teste que verifica se mudanças no código-fonte, como correções de bugs ou novas funcionalidades, não introduziram novos erros no sistema ou afetaram funcionalidades já existentes. (página 36)
 
 .VarXplorer: Ferramenta utilizada para visualizar e analisar a variabilidade e as configurações em linhas de produtos de software, facilitando a identificação de dependências e a gestão da complexidade de diferentes variantes de produtos. (página 21)
